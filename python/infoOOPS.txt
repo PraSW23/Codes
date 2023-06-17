@@ -1,0 +1,62 @@
+ex:
+
+using class-->>
+
+class Car:
+    def __init__(self, make, model):
+        self.make = make
+        self.model = model
+
+    def start_engine(self):
+        self._check_fuel()
+        self._ignite_spark_plug()
+        self._inject_fuel()
+        print("Engine started!")
+
+    def _check_fuel(self):
+        print("Checking fuel level...")
+
+    def _ignite_spark_plug(self):
+        print("Igniting the spark plug...")
+
+    def _inject_fuel(self):
+        print("Injecting fuel...")
+
+
+my_car = Car("Honda", "Civic")
+my_car.start_engine()
+
+
+without class implementation of same program -->>
+
+def start_engine(make, model):
+    check_fuel()
+    ignite_spark_plug()
+    inject_fuel()
+    print("Engine started!")
+
+def check_fuel():
+    print("Checking fuel level...")
+
+def ignite_spark_plug():
+    print("Igniting the spark plug...")
+
+def inject_fuel():
+    print("Injecting fuel...")
+
+make = "Honda"
+model = "Civic"
+start_engine(make, model)
+
+
+conclusion -->>
+we can provide abstraction to user i.e hiding details or rather we can say
+controlling direct access.
+
+when i use class in above program in the loc (my_car.start_engine()) it simply
+runs other functions init which are local and also cannont accessed directly by
+outside but in function code we can can any function directly like check_fuel(),
+ignite_spark_plug(), inject_fuel() and start_engine(make, model) but in class we
+don't able to do that. In this way user only think about implementation of method
+in class rather than thinking how its done or which functions are called internally
+to do that becuase we can't access its internal or private components from outside.
