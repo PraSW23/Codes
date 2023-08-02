@@ -54,7 +54,7 @@ void traverseSTK(struct stack *s)
 
 int *push(int val, struct stack *s)
 {
-    if (s->top == &s->arr[s->size])
+    if (s->top == &s->arr[s->size-1])
     {
         printf("\nStack Overflow ! Unable to push\n");
     }

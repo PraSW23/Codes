@@ -13,7 +13,7 @@ while (i<len(x)):
 print("\n\nfor in")
 for i in x:
     print(i,end=" ")
-
+    
 
 print("\n\nfor range")
 for i in range(0,len(x),1): #step size 1

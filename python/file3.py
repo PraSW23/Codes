@@ -11,5 +11,5 @@ with open("sample2.txt","r") as f:
     x = a.replace("twinkle","######")
     
 with open("sample2.txt","w") as f:
-    a = f.write(x)
+    a = f.write(x + "end.")
     

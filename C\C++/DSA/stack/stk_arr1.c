@@ -45,6 +45,8 @@ push(68);
 push(92);
 STKtraversal(num-1);
  int val = pop();
+ val = pop();
+
  printf("\nPopping %d from top of stack ", val);
  STKtraversal(num-1);
     return 0;

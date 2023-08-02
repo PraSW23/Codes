@@ -1,0 +1,539 @@
+Tags,Attributes,Class,ID,Content
+html,, - , - , - 
+head,, - , - , - 
+script,"async,src", - , - ,Hidden
+script,, - , - ,Hidden
+meta,charset, - , - , - 
+meta,"http-equiv,content", - , - , - 
+meta,"name,content", - , - , - 
+meta,"name,content", - , - , - 
+meta,"name,content", - , - , - 
+meta,"property,content", - , - , - 
+meta,"name,content", - , - , - 
+meta,"name,content", - , - , - 
+link,"rel,href,type", - , - , - 
+meta,"name,content", - , - , - 
+title,, - , - ,Home
+link,"rel,href", - , - , - 
+link,"rel,href", - , - , - 
+link,"rel,href", - , - , - 
+link,"rel,href", - , - , - 
+link,"rel,href", - , - , - 
+link,"rel,href", - , - , - 
+link,"rel,href", - , - , - 
+link,"rel,href", - , - , - 
+link,"rel,href", - , - , - 
+link,"rel,href", - , - , - 
+link,"rel,href,as,onload", - , - , - 
+noscript,, - , - , - 
+link,"rel,href", - , - , - 
+link,"rel,as,href", - , - , - 
+link,"rel,href,type", - , - , - 
+body,, - , - , - 
+script,type, - , - ,Hidden
+section,"data-bs-version,class,once,id","menu,menu2,cid-sFCw1qGFAI",menu2-23, - 
+nav,class,"navbar,navbar-dropdown,navbar-expand-lg", - , - 
+div,class,container, - , - 
+div,class,navbar-brand, - , - 
+span,class,navbar-logo, - , - 
+a,href, - , - , - 
+img,"src,alt,style", - , - , - 
+button,"class,type,data-toggle,data-bs-toggle,data-target,data-bs-target,aria-controls,aria-expanded,aria-label",navbar-toggler, - , - 
+div,class,hamburger, - , - 
+span,, - , - , - 
+span,, - , - , - 
+span,, - , - , - 
+span,, - , - , - 
+div,"class,id","collapse,navbar-collapse",navbarSupportedContent, - 
+ul,"class,data-app-modern-menu","navbar-nav,nav-dropdown", - , - 
+li,class,nav-item, - , - 
+a,"class,href","nav-link,link,text-black,text-primary,display-4", - ,Home
+li,class,nav-item, - , - 
+a,"class,href","nav-link,link,text-black,text-primary,display-4", - ,About
+li,class,nav-item, - , - 
+a,"class,href","nav-link,link,text-black,text-primary,display-4", - ,Services
+li,class,nav-item, - , - 
+a,"class,href","nav-link,link,text-black,text-primary,display-4", - ,Products
+li,class,nav-item, - , - 
+a,"class,href","nav-link,link,text-black,text-primary,display-4", - ,Pricing
+li,class,nav-item, - , - 
+a,"class,href","nav-link,link,text-black,text-primary,display-4", - ,Careers
+li,class,nav-item, - , - 
+a,"class,href","nav-link,link,text-black,text-primary,display-4", - ,Contacts
+div,class,"navbar-buttons,mbr-section-btn", - , - 
+a,"class,href","btn,btn-warning,display-4", - ,Get Quote
+section,"data-bs-version,class,id","header14,cid-sFzxmVl7J6",header14-1f, - 
+div,class,container, - , - 
+div,class,"row,justify-content-center,align-items-center", - , - 
+div,class,"col-12,col-md-6,image-wrapper", - , - 
+img,"src,alt", - , - , - 
+div,class,"col-12,col-md", - , - 
+div,class,text-wrapper, - , - 
+h1,class,"mbr-section-title,mbr-fonts-style,mb-3,display-1", - , - 
+strong,, - , - ,Rivan Solutions
+p,class,"mbr-text,mbr-fonts-style,display-7", - , - 
+br,, - , - , - 
+br,, - , - , - 
+div,class,"mbr-section-btn,mt-3", - , - 
+a,"class,href","btn,btn-primary-outline,display-4", - ,Get Started
+a,"class,href,target","btn,btn-primary,display-4", - ,Read More
+section,"data-bs-version,class,id","info2,cid-t5QdT0NqvU",info2-8, - 
+div,class,"align-center,container-fluid", - , - 
+div,class,"row,justify-content-center", - , - 
+div,class,"card,col-12,col-lg-6", - , - 
+div,class,wrapper, - , - 
+h3,class,"mbr-section-title,mb-4,mbr-fonts-style,display-5", - , - 
+strong,, - , - ,Know Us
+p,class,"mbr-text,mb-4,mbr-fonts-style,display-4", - , - 
+br,, - , - , - 
+div,class,mbr-section-btn, - , - 
+a,"class,href","btn,btn-white-outline,display-4", - ,Know More
+div,class,"col-12,col-lg-6", - , - 
+div,class,wrapper, - , - 
+h3,class,"mbr-section-title,mbr-fonts-style,mb-4,display-5", - , - 
+strong,, - , - ,Get Free Quote
+p,class,"mbr-text,mbr-fonts-style,mb-4,display-4", - , - 
+br,, - , - , - 
+p,, - , - , - 
+p,, - , - , - 
+div,class,mbr-section-btn, - , - 
+a,"class,href","btn,btn-white-outline,display-4", - ,Get Quote
+section,"data-bs-version,class,id","features12,cid-t5QddkcEjV",features13-7, - 
+div,class,container, - , - 
+div,class,"row,justify-content-center", - , - 
+div,class,"col-12,col-lg-6", - , - 
+div,class,card-wrapper, - , - 
+div,class,"card-box,align-left", - , - 
+h4,class,"card-title,mbr-fonts-style,mb-4,display-5", - , - 
+strong,, - , - ,Why Rivan?
+p,class,"mbr-text,mbr-fonts-style,mb-4,display-5", - , - 
+br,, - , - , - 
+strong,, - , - , - 
+br,, - , - , - 
+br,, - , - , - 
+div,class,mbr-section-btn, - , - 
+a,"class,href","btn,btn-primary-outline,display-4", - ,Get Quote Now
+div,class,"col-12,col-lg-6", - , - 
+div,class,"item,mbr-flex", - , - 
+div,class,icon-box, - , - 
+span,"class,style","mbr-iconfont,mbrib-rocket", - , - 
+div,class,text-box, - , - 
+h4,class,"icon-title,mbr-black,mbr-fonts-style,display-7", - , - 
+strong,, - , - ,Quick
+h5,class,"icon-text,mbr-black,mbr-fonts-style,display-4", - ,"We Extract the data from any
+website and deliver it as
+early as possible, Starting
+from 29 minutes."
+div,class,"item,mbr-flex", - , - 
+div,class,icon-box, - , - 
+span,class,"mbr-iconfont,mobi-mbri-success,mobi-mbri", - , - 
+div,class,text-box, - , - 
+h4,class,"icon-title,mbr-black,mbr-fonts-style,display-7", - , - 
+strong,, - , - ,Accurate
+h5,class,"icon-text,mbr-black,mbr-fonts-style,display-4", - ,"We have an Extensive QC Team,
+we make sure that your data is
+Extracted and Formatted
+properly as per your
+requirments."
+div,class,"item,mbr-flex", - , - 
+div,class,icon-box, - , - 
+span,class,"mbr-iconfont,mobi-mbri-update,mobi-mbri", - , - 
+div,class,text-box, - , - 
+h4,class,"icon-title,mbr-black,mbr-fonts-style,display-7", - , - 
+strong,, - , - ,Re - Use
+h5,class,"icon-text,mbr-black,mbr-fonts-style,display-4", - ,"Once the Automation script is
+ready we schedule the program
+and deliver the data in the
+intervals you need/"
+section,"data-bs-version,class,id","features1,cid-sFzyUE9AaP",features1-1i, - 
+div,class,container-fluid, - , - 
+div,class,row, - , - 
+div,class,"col-12,col-lg-9", - , - 
+h3,class,"mbr-section-title,mbr-fonts-style,align-center,mb-0,display-2", - , - 
+strong,, - , - ,Our Services
+div,class,row, - , - 
+div,class,"card,col-12,col-md-6,col-lg-3", - , - 
+div,class,card-wrapper, - , - 
+div,class,"card-box,align-center", - , - 
+div,class,iconfont-wrapper, - , - 
+span,"class,style","mbr-iconfont,mbri-setting", - , - 
+h5,class,"card-title,mbr-fonts-style,display-5", - , - 
+strong,, - , - ,Web Scraping
+p,class,"card-text,mbr-fonts-style,display-7", - ,"We Extract Data from any
+website and we ensure you to
+deliver the data in your
+required format."
+div,class,"card,col-12,col-md-6,col-lg-3", - , - 
+div,class,card-wrapper, - , - 
+div,class,"card-box,align-center", - , - 
+div,class,iconfont-wrapper, - , - 
+span,"class,style","mbr-iconfont,mobi-mbri-play,mobi-mbri", - , - 
+h5,class,"card-title,mbr-fonts-style,display-5", - , - 
+strong,, - , - ,Automation
+p,class,"card-text,mbr-fonts-style,display-7", - ,"We automate the boring web-
+stuff like copy pasting,
+downloading of files, reading
+mails and process the content
+etc"
+div,class,"card,col-12,col-md-6,col-lg-3", - , - 
+div,class,card-wrapper, - , - 
+div,class,"card-box,align-center", - , - 
+div,class,iconfont-wrapper, - , - 
+span,"class,style","mbr-iconfont,mbrib-upload", - , - 
+h5,class,"card-title,mbr-fonts-style,display-5", - , - 
+strong,, - , - ,API
+p,class,"card-text,mbr-fonts-style,display-7", - ,"We are into DASS (Data as a
+Service) for any domain like
+Finance, Health Care,
+Investments, Banking, Careers
+etc."
+section,"data-bs-version,class,id","features1,cid-t5QPZZwGNb",features1-1f, - 
+div,class,container-fluid, - , - 
+div,class,row, - ,
+div,class,row, - , - 
+div,class,"card,col-12,col-md-6,col-lg-3", - , - 
+div,class,card-wrapper, - , - 
+div,class,"card-box,align-center", - , - 
+div,class,iconfont-wrapper, - , - 
+span,"class,style","mbr-iconfont,mobi-mbri-edit,mobi-mbri", - , - 
+h5,class,"card-title,mbr-fonts-style,display-5", - , - 
+strong,, - , - ,Manual Extraction
+p,class,"card-text,mbr-fonts-style,display-7", - ,"Couple of Data sets are un -
+formatable, Hence we do a
+proper research and extract
+data manually to ensure for
+perfect data."
+div,class,"card,col-12,col-md-6,col-lg-3", - , - 
+div,class,card-wrapper, - , - 
+div,class,"card-box,align-center", - , - 
+div,class,iconfont-wrapper, - , - 
+span,"class,style","mbr-iconfont,mobi-mbri-database,mobi-mbri", - , - 
+h5,class,"card-title,mbr-fonts-style,display-5", - , - 
+strong,, - , - ,Data Mangement
+p,class,"card-text,mbr-fonts-style,display-7", - ,"We Store your data securely in
+our servers in and we support
+both SQL and No - SQL formats
+and manage any type of files."
+div,class,"card,col-12,col-md-6,col-lg-3", - , - 
+div,class,card-wrapper, - , - 
+div,class,"card-box,align-center", - , - 
+div,class,iconfont-wrapper, - , - 
+span,"class,style","mbr-iconfont,mbrib-users", - , - 
+h5,class,"card-title,mbr-fonts-style,display-5", - , - 
+strong,, - , - ,Manual Agents
+p,class,"card-text,mbr-fonts-style,display-7", - ,"Our team will help you to
+serve in Research, Chat
+process, Transcripts, Copy -
+paste etc basically any kind
+of manual process."
+section,"data-bs-version,class,id","content10,cid-sFAZRnJnnI",content10-22, - 
+div,class,container, - , - 
+div,class,"row,justify-content-center", - , - 
+div,class,"col-12,col-md", - , - 
+h6,class,"mbr-section-subtitle,mbr-fonts-style,mb-4,display-2", - , - 
+strong,, - , - ,Why clients choose us?
+div,class,"col-md-12,col-lg-6", - , - 
+p,class,"mbr-text,mbr-fonts-style,display-7", - ,"We first understand our client
+requirements,  then we provide
+a proper POC (Proof of
+concept) and Sample set of
+data along with Design
+documents if required, then we
+follow best programming
+practices to extract data
+where you get the data quicker
+and later we follow best
+Quality Check points for data
+to ensure for the best data to
+deliver as per specified
+requirments."
+section,"data-bs-version,class,id","content4,cid-sFzIdnt1ra",content4-1q, - 
+div,class,container, - , - 
+div,class,"row,justify-content-center", - , - 
+div,class,"title,col-md-12,col-lg-10", - , - 
+h3,class,"mbr-section-title,mbr-fonts-style,align-center,mb-4,display-2", - , - 
+strong,, - , - ,Our Pricing Plan
+h4,class,"mbr-section-subtitle,align-center,mbr-fonts-style,mb-4,display-5", - , - 
+div,, - , - , - 
+br,, - , - , - 
+div,, - , - ,"We are Flexible and Simple,
+get paid for what you get for."
+strong,, - , - , - 
+br,, - , - , - 
+div,, - , - , - 
+strong,, - , - ,"Prices starts at just $25/
+Website."
+section,"data-bs-version,class,id","pricing2,cid-sFzDdjoEIw",pricing2-1k, - 
+div,class,container, - , - 
+div,class,"row,justify-content-center", - , - 
+div,class,"col-12,col-md-6,align-center,col-lg-3", - , - 
+div,class,plan, - , - 
+div,class,plan-header, - , - 
+h6,class,"plan-title,mbr-fonts-style,mb-3,display-5", - , - 
+strong,, - , - ,Starter
+div,class,plan-price, - , - 
+p,class,"price,mbr-fonts-style,m-0,display-2", - , - 
+strong,, - , - ,$25
+p,class,"price-term,mbr-fonts-style,mb-3,display-7", - , - 
+strong,, - , - ,Per month
+div,class,plan-body, - , - 
+div,class,"plan-list,mb-4", - , - 
+ul,class,"list-group,mbr-fonts-style,list-group-flush,display-7", - , - 
+li,class,list-group-item, - ,Upto 12k records per Month
+li,class,list-group-item, - , - 
+span,style, - , - ,"Data delivery in CSV, jSON
+formats"
+li,class,list-group-item, - , - 
+span,style, - , - ,"Monthly or Weekly Crawling
+frequency"
+li,class,list-group-item, - ,Basic Support
+div,class,"mbr-section-btn,text-center", - , - 
+a,"href,class","btn,btn-primary-outline,display-4", - ,Get started
+div,class,"col-12,col-md-6,align-center,col-lg-3", - , - 
+div,class,plan, - , - 
+div,class,plan-header, - , - 
+h6,class,"plan-title,mbr-fonts-style,mb-3,display-5", - , - 
+strong,, - , - ,Personal
+div,class,plan-price, - , - 
+p,class,"price,mbr-fonts-style,m-0,display-2", - , - 
+strong,, - , - ,$75
+p,class,"price-term,mbr-fonts-style,mb-3,display-7", - , - 
+strong,, - , - ,Per month
+div,class,plan-body, - , - 
+div,class,"plan-list,mb-4", - , - 
+ul,class,"list-group,mbr-fonts-style,list-group-flush,display-7", - , - 
+li,class,list-group-item, - ,Upto 50k records per Month
+li,class,list-group-item, - , - 
+span,style, - , - ,"Data delivery in CSV, jSON
+formats or via API"
+li,class,list-group-item, - ,"Daily / Weekly / Monthly
+Crawling frequency"
+li,class,list-group-item, - ,Premium Support
+div,class,"mbr-section-btn,text-center", - , - 
+a,"href,class","btn,btn-primary-outline,display-4", - ,Get started
+div,class,"col-12,col-md-6,align-center,col-lg-3", - , - 
+div,class,plan, - , - 
+div,class,plan-header, - , - 
+h6,class,"plan-title,mbr-fonts-style,mb-3,display-5", - , - 
+strong,, - , - ,Business
+div,class,plan-price, - , - 
+p,class,"price,mbr-fonts-style,m-0,display-2", - , - 
+strong,, - , - ,$399
+p,class,"price-term,mbr-fonts-style,mb-3,display-7", - , - 
+strong,, - , - ,Per Month
+div,class,plan-body, - , - 
+div,class,"plan-list,mb-4", - , - 
+ul,class,"list-group,mbr-fonts-style,list-group-flush,display-7", - , - 
+li,class,list-group-item, - , - 
+span,style, - , - ,Upto 50k records per Month
+li,class,list-group-item, - ,Complex Structure web Data
+li,class,list-group-item, - ,"Data delivery in CSV, jSON
+formats or via API"
+li,class,list-group-item, - ,"Daily / Weekly / Monthly
+Crawling frequency"
+li,class,list-group-item, - ,Dedicated Support
+div,class,"mbr-section-btn,text-center", - , - 
+a,"href,class","btn,btn-primary-outline,display-4", - ,Get started
+div,class,"col-12,col-md-6,align-center,col-lg-3", - , - 
+div,class,plan, - , - 
+div,class,plan-header, - , - 
+h6,class,"plan-title,mbr-fonts-style,mb-3,display-5", - , - 
+strong,, - , - ,Enterprise
+div,class,plan-price, - , - 
+p,class,"price,mbr-fonts-style,m-0,display-2", - , - 
+strong,, - , - ,Custom
+p,class,"price-term,mbr-fonts-style,mb-3,display-7", - , - 
+strong,, - , - ,Pay as you Go
+div,class,plan-body, - , - 
+div,class,"plan-list,mb-4", - , - 
+ul,class,"list-group,mbr-fonts-style,list-group-flush,display-7", - , - 
+li,class,list-group-item, - ,"Unlimited number of websites &
+pages"
+li,class,list-group-item, - , - 
+span,style, - , - ,"Data delivery in CSV, jSON or
+Via API"
+li,class,list-group-item, - ,Any crawling frequency
+li,class,list-group-item, - ,Dedicated Server
+br,, - , - , - 
+li,class,list-group-item, - ,Dedicated Data-Base and Api
+li,class,list-group-item, - ,Premium Dedicated support
+div,class,"mbr-section-btn,text-center", - , - 
+a,"href,class","btn,btn-primary-outline,display-4", - ,Get started
+section,"data-bs-version,class,id","form5,cid-sFzDs3t9EG",form5-1m, - 
+div,class,container, - , - 
+div,class,mbr-section-head, - , - 
+h3,class,"mbr-section-title,mbr-fonts-style,align-center,mb-0,display-2", - , - 
+strong,, - , - ,Get a Quick Price Quotation
+h4,class,"mbr-section-subtitle,mbr-fonts-style,align-center,mb-0,mt-2,display-7", - ,"We first research your website
+and then provide you best
+Prices."
+div,class,"row,justify-content-center,mt-4", - , - 
+div,"class,data-form-type","col-lg-8,mx-auto,mbr-form", - , - 
+form,"action,method,class,data-form-title","mbr-form,form-with-styler", - , - 
+input,"type,name,data-form-email,value", - , - , - 
+div,class,row, - , - 
+div,"hidden,data-form-alert,class","alert,alert-success,col-12", - ,"Thanks for Filling the Form,
+We will get back to you
+Shortly. Thanks, - Team, Rivan
+Solution."
+div,"hidden,data-form-alert-danger,class","alert,alert-danger,col-12", - ,"Oops...! some
+problem!"
+div,class,"dragArea,row", - , - 
+div,"class,data-for","col-md,col-sm-12,form-group,mb-3", - , - 
+input,"type,name,placeholder,data-form-field,class,value,id",form-control,name-form5-1m, - 
+div,"class,data-for","col-md,col-sm-12,form-group,mb-3", - , - 
+input,"type,name,placeholder,data-form-field,class,value,id",form-control,email-form5-1m, - 
+div,"class,data-for","col-12,form-group,mb-3", - , - 
+input,"type,name,placeholder,data-form-field,class,value,id",form-control,url-form5-1m, - 
+div,"class,data-for","col-12,form-group,mb-3", - , - 
+textarea,"name,placeholder,data-form-field,class,id",form-control,textarea-form5-1m, - 
+div,class,"col-lg-12,col-md-12,col-sm-12,align-center,mbr-section-btn", - , - 
+button,"type,class","btn,btn-primary-outline,display-4", - ,Send message
+section,"data-bs-version,class,id","contacts2,cid-sFzIA7KGYz",contacts2-1r, - 
+div,class,container, - , - 
+div,class,mbr-section-head, - , - 
+h3,class,"mbr-section-title,mbr-fonts-style,align-center,mb-0,display-2", - , - 
+strong,, - , - ,Contacts
+h4,class,"mbr-section-subtitle,mbr-fonts-style,align-center,mb-0,mt-2,display-7", - ,"Reach us for Any queries you
+have."
+div,class,"row,justify-content-center,mt-4", - , - 
+div,class,"card,col-12,col-md-6", - , - 
+div,class,card-wrapper, - , - 
+div,class,image-wrapper, - , - 
+span,class,"mbr-iconfont,mobi-mbri-phone,mobi-mbri", - , - 
+div,class,text-wrapper, - , - 
+h6,class,"card-title,mbr-fonts-style,mb-1,display-5", - , - 
+strong,, - , - ,Phone
+p,class,"mbr-text,mbr-fonts-style,display-7", - , - 
+a,"href,class",text-primary, - ,+91 9550 398 316
+div,class,"card,col-12,col-md-6", - , - 
+div,class,card-wrapper, - , - 
+div,class,image-wrapper, - , - 
+span,class,"mbr-iconfont,mobi-mbri-letter,mobi-mbri", - , - 
+div,class,text-wrapper, - , - 
+h6,class,"card-title,mbr-fonts-style,mb-1,display-5", - , - 
+strong,, - , - ,Email
+p,class,"mbr-text,mbr-fonts-style,display-7", - , - 
+a,"href,class",text-primary, - ,info@rivan.i
+div,class,"card,col-12,col-md-6", - , - 
+div,class,card-wrapper, - , - 
+div,class,image-wrapper, - , - 
+span,class,"mbr-iconfont,mobi-mbri-globe,mobi-mbri", - , - 
+div,class,text-wrapper, - , - 
+h6,class,"card-title,mbr-fonts-style,mb-1,display-5", - , - 
+strong,, - , - ,Address
+p,class,"mbr-text,mbr-fonts-style,display-7", - ,"1-10-1/291/87B, Sai Nagar
+Colony, ECIL, Kushaiguda,
+Secunderabad, Telangana 500062"
+div,class,"card,col-12,col-md-6", - , - 
+div,class,card-wrapper, - , - 
+div,class,image-wrapper, - , - 
+span,class,"mbr-iconfont,mobi-mbri-bulleted-list,mobi-mbri", - , - 
+div,class,text-wrapper, - , - 
+h6,class,"card-title,mbr-fonts-style,mb-1,display-5", - , - 
+strong,, - , - ,Working Hours
+p,class,"mbr-text,mbr-fonts-style,display-7", - ,8:00 - 23:59
+section,"data-bs-version,class,id","form7,cid-t5R5vPT59x",form7-1k, - 
+div,class,container, - , - 
+div,class,mbr-section-head, - , - 
+h3,class,"mbr-section-title,mbr-fonts-style,align-center,mb-0,display-2", - , - 
+strong,, - , - ,Get in Touch
+div,class,"row,justify-content-center,mt-4", - , - 
+div,"class,data-form-type","col-lg-8,mx-auto,mbr-form", - , - 
+form,"action,method,class,data-form-title","mbr-form,form-with-styler,mx-auto", - , - 
+input,"type,name,data-form-email,value", - , - , - 
+p,class,"mbr-text,mbr-fonts-style,align-center,mb-4,display-7", - ,"One of our team will be in
+contact with you shortly."
+div,class,row, - , - 
+div,"hidden,data-form-alert,class","alert,alert-success,col-12", - ,"Thanks for filling out the
+form!"
+div,"hidden,data-form-alert-danger,class","alert,alert-danger,col-12", - ,Oops...! some problem!
+div,class,"dragArea,row", - , - 
+div,"class,data-for","col-lg-12,col-md-12,col-sm-12,form-group,mb-3", - , - 
+input,"type,name,placeholder,data-form-field,class,value,id",form-control,name-form7-1k, - 
+div,"class,data-for","col-lg-12,col-md-12,col-sm-12,form-group,mb-3", - , - 
+input,"type,name,placeholder,data-form-field,class,value,id",form-control,email-form7-1k, - 
+div,"data-for,class","col-lg-12,col-md-12,col-sm-12,form-group,mb-3", - , - 
+input,"type,name,placeholder,data-form-field,class,value,id",form-control,phone-form7-1k, - 
+div,class,"col-auto,mbr-section-btn,align-center", - , - 
+button,"type,class","btn,btn-primary,display-4", - ,Submit
+section,"data-bs-version,class,once,id","footer6,cid-t5QAUYMs6B",footer6-1c, - 
+div,class,container, - , - 
+div,class,"row,content,mbr-white", - , - 
+div,class,"col-12,col-md-3,mbr-fonts-style,display-7", - , - 
+h5,class,"mbr-section-subtitle,mbr-fonts-style,mb-2,display-7", - , - 
+strong,, - , - ,Address
+p,class,"mbr-text,mbr-fonts-style,display-7", - ,"1-10-1/291/87B, Sai Nagar
+Colony, ECIL, Kushaiguda,
+Secunderabad, Telangana 500062"
+br,, - , - , - 
+h5,class,"mbr-section-subtitle,mbr-fonts-style,mb-2,mt-4,display-7", - , - 
+strong,, - , - ,Contacts
+p,class,"mbr-text,mbr-fonts-style,mb-4,display-7", - , - 
+br,, - , - , - 
+br,, - , - , - 
+div,class,"col-12,col-md-3,mbr-fonts-style,display-7", - , - 
+h5,class,"mbr-section-subtitle,mbr-fonts-style,mb-2,display-7", - , - 
+strong,, - , - ,Links
+ul,class,"list,mbr-fonts-style,mb-4,display-4", - , - 
+li,class,"mbr-text,item-wrap", - , - 
+a,"href,class",text-white, - ,Home
+a,"href,class",text-primary, - ,
+li,class,"mbr-text,item-wrap", - ,Careers
+li,class,"mbr-text,item-wrap", - ,Reach Us
+h5,class,"mbr-section-subtitle,mbr-fonts-style,mb-2,mt-5,display-7", - , - 
+strong,, - , - ,Feedback
+p,class,"mbr-text,mbr-fonts-style,mb-4,display-7", - ,"Please send us your ideas, bug
+reports, suggestions! Any
+feedback would be appreciated."
+div,class,"col-12,col-md-6", - , - 
+div,class,google-map, - , - 
+iframe,"frameborder,style,src,allowfullscreen", - , - , - 
+div,class,col-md-6, - , - 
+div,class,"social-list,align-left", - , - 
+div,class,soc-item, - , - 
+a,"href,target", - , - , - 
+span,class,"mbr-iconfont,mbr-iconfont-social,socicon-linkedin,socicon", - , - 
+div,class,soc-item, - , - 
+a,"href,target", - , - , - 
+span,class,"socicon-facebook,socicon,mbr-iconfont,mbr-iconfont-social", - , - 
+div,class,soc-item, - , - 
+a,"href,target", - , - , - 
+span,class,"mbr-iconfont,mbr-iconfont-social,socicon-youtube,socicon", - , - 
+div,class,soc-item, - , - 
+a,"href,target", - , - , - 
+span,class,"mbr-iconfont,mbr-iconfont-social,socicon-instagram,socicon", - , - 
+div,class,soc-item, - , - 
+a,"href,target", - , - , - 
+span,class,"mbr-iconfont,mbr-iconfont-social,socicon-googleplus,socicon", - , - 
+div,class,soc-item, - , - 
+a,"href,target", - , - , - 
+span,class,"mbr-iconfont,mbr-iconfont-social,socicon-twitter,socicon", - , - 
+div,class,footer-lower, - , - 
+div,class,media-container-row, - , - 
+div,class,col-sm-12, - , - 
+hr,, - , - , - 
+div,class,"col-sm-12,copyright,pl-0", - , - 
+p,class,"mbr-text,mbr-fonts-style,mbr-white,display-7", - ,"Â© Copyright 2022 Rivan
+Solutions - All Rights
+Reserved"
+section,"vogue,id,class,style",display-7,âhide-footerâ, - 
+p,"href,style", - , - , - 
+img,"alt,style,src", - , - , - 
+br,, - , - , - 
+p,"style,class",display-7, - ,"Built with Love, By Rivan
+Solutions.  ‌"
+p,"style,href", - , - , - 
+script,src, - , - , - 
+script,src, - , - , - 
+script,src, - , - , - 
+script,src, - , - , - 
+script,src, - , - , - 
+script,src, - , - , - 
+script,src, - , - , - 
+script,src, - , - , - 
+input,"name,type,data-cookie-customdialogselector,data-cookie-colortext,data-cookie-colorbg,data-cookie-textbutton,data-cookie-colorbutton,data-cookie-colorlink,data-cookie-underlinelink,data-cookie-text", - , - , - 
+div,"id,class","scrollToTop,mbr-arrow-up",scrollToTop, - 
+a,style, - , - , - 
+i,class,"mbr-arrow-up-icon,mbr-arrow-up-icon-cm,cm-icon,cm-icon-smallarrow-up", - , - 
+input,"name,type", - , - , - 
