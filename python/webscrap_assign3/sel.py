@@ -10,7 +10,7 @@ import pandas as pd
 dic = {"Name": [], "Expertise": [], "Department": [], "Position": [], "Phone No": [], "Address": []}
 
 def scrape_website_with_selenium(url):
-    chrome_driver_path = '/home/prakhar/Downloads/chromedri/chromedriver'
+    chrome_driver_path = '/home/prakhar/Downloads/chromedriver'
     os.environ['PATH'] += ":" + chrome_driver_path
     html_content = ""
     
