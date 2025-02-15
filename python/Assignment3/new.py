@@ -6,31 +6,31 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 def scrape_website_with_selenium(url):
-    # Set the path to the ChromeDriver executable as an environment variable
+    
     chrome_driver_path = '/home/prakhar/Downloads/chromedri/chromedriver'
     os.environ['PATH'] += ":" + chrome_driver_path
     html_content = ""
-    # Create the webdriver.Chrome object
+    
     driver = webdriver.Chrome()
 
     try:
-        # Navigate to the URL
+        # Navigating to the URL
         driver.get(url)
 
-        # Replace the number with the desired number of scrolls or use a loop to scroll until you get all the data
+        
         for _ in range(300):
-            # Scroll to the bottom of the page to load more data
+            
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(2)  # Wait for the content to load (adjust the wait time as needed)
+            time.sleep(2) 
 
-        # Get the page source after scrolling and waiting for dynamic content to load
+       
         html_content = driver.page_source
 
     except Exception as e:
         print("Error:", e)
 
     finally:
-        # Close the webdriver after scraping
+        
         driver.quit()
 
         with open("new.html", "w") as f:
@@ -38,13 +38,13 @@ def scrape_website_with_selenium(url):
     return html_content
 
 def split1(input_string):
-    return input_string.split(',')  # Split using comma as separator
+    return input_string.split(',')  
 
 if __name__ == "__main__":
-    url_to_scrape = "https://intake.steerhealth.io/doctor-search/aa1f8845b2eb62a957004eb491bb8ba70a"  # Replace with the URL you want to scrape
+    url_to_scrape = "https://intake.steerhealth.io/doctor-search/aa1f8845b2eb62a957004eb491bb8ba70a"  
     content = scrape_website_with_selenium(url_to_scrape)
 
-    # Create the BeautifulSoup object to parse the HTML content
+    
     soup = BeautifulSoup(content, "html.parser")
 
     data = []

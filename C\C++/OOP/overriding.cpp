@@ -3,7 +3,7 @@ using namespace std;
 
 class Emp {
 public:
-    void work() {
+    virtual void work() {
         cout << "ok"<<endl;
     }
     int add(int n1, int n2, int n3){
@@ -23,7 +23,7 @@ public:
 
 class developer:public Coder{
 public:
-    void work(){
+    void work (){
         cout<<"Nice"<<endl;
     }
 
@@ -33,6 +33,12 @@ int main() {
     developer c1;
     c1.Coder::work(); 
     c1.Emp::work();
+    c1.work();
+    Coder c2;
+    Emp * e1 = &c1;
+    Emp * e2 = &c2;
+    e1->work();
+    e2->work();
 
     cout<<c1.Emp::add(2,3,4)<<endl; 
 

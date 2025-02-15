@@ -211,9 +211,9 @@ int main()
     // cout<<
     //xatlast(str,"",0);
    // cout<<xatlast2(str,"");
-  // subseq(str,"");
+   subseq(str,"");
 // keypad(s[n1],s[n2],"");
-   permu2(str,str);
+   //permu2(str,str);
  
     return 0;
 }
